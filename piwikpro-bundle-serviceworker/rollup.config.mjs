@@ -4,7 +4,7 @@ import replace from '@rollup/plugin-replace';
 export default {
 	input: 'main.js',
 	output: {
-		file: '../piwik-main.js',
+		file: '../piwikpro-serviceworker.js',
 		format: 'iife', // immediately-invoked function expression — suitable for <script> tags
 		sourcemap: true
 	},
