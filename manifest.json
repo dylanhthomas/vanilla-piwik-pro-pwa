@@ -1,0 +1,28 @@
+{
+    "name": "Vanilla Piwik Pro PWA Test",
+    "manifest_version": 2,
+    "start_url": "index.html",
+    "display": "standalone",
+    "orientation": "landscape",
+    "theme_color": "#000000",
+    "background_color": "#FFFFFF",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "apple-touch-icon.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "screenshot.jpg",
+            "sizes": "1366x1024",
+            "type": "image/jpg",
+            "platform": "wide"
+        }
+    ],
+    "permissions": [
+        "fullscreen"
+    ]
+}
