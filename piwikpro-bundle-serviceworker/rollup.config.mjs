@@ -6,7 +6,7 @@ export default {
 	output: {
 		file: '../piwikpro-serviceworker.js',
 		format: 'iife', // immediately-invoked function expression — suitable for <script> tags
-		sourcemap: true
+		sourcemap: false
 	},
 	plugins: [
 		resolve(), // tells Rollup how to find node_modules
