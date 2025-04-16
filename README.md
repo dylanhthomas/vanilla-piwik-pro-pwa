@@ -1,1 +1,1 @@
-# vanilla-piwik-pwa
+# vanilla-piwik-pro-pwa
